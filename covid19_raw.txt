@@ -1,0 +1,183 @@
+Has anyone in the United States gotten infected?	1
+Am I at risk for cov from a package or products shipping from China?	1
+What are the symptoms and complications that cov can cause?	1
+Can a person test negative and later test positive for cov?	1
+Why might someone blame or avoid individuals and groups (create stigma) because of cov?	1
+What precautions should be taken for animals that have recently been imported from China?	1
+What is the risk of getting cov on an airplane?	1
+What is the risk of my child becoming sick with cov?	1
+Are the symptoms of cov different in children than in adults?	1
+Should children wear masks?	1
+Is it easier for pregnant women to become ill with the disease? 	1
+What is the risk to pregnant women of getting cov?	1
+Can cov cause problems for a pregnancy?	1
+Can cov be passed from a pregnant woman to the fetus or newborn?	1
+If a pregnant woman has cov during pregnancy, will it hurt the baby?	1
+Can the cov virus spread through drinking water?	1
+Is the cov virus found in feces?	1
+Can the cov virus spread through pools and hot tubs?	1
+Can the cov virus spread through sewerage systems?	1
+What are the clinical features of cov?	1
+Who is at risk for cov?	1
+Who is at risk for severe disease from cov?	1
+Which body fluids can spread infection?	1
+Are pregnant healthcare personnel at increased risk for adverse outcomes if they care for patients with cov?	1
+Should any diagnostic or therapeutic interventions be withheld due to concerns about transmission of cov?	1
+Will existing respiratory virus panels, such as those manufactured by Biofire or Genmark, detect sars cov, the virus that causes cov?	1
+How is cov treated?	1
+Should post-exposure prophylaxis be used for people who may have been exposed to cov?	1
+Are pregnant healthcare personnel at increased risk for adverse outcomes if they care for patients with cov?	1
+Do wastewater and sewage workers need any additional protection when handling untreated waste from healthcare or community setting with either a known cov patient or PUI?	1
+Should medical waste or general waste from healthcare facilities treating PUIs and patients with confirmed cov be handled any differently or need any additional disinfection?	1
+What PPE should be worn when transporting a patient to radiology for imaging that cannot be performed in the patient room?	1
+hypertension or hyperglycemia	1
+What PPE should be worn by HCP providing care to asymptomatic patients with a history of exposure to cov who are being evaluated for a non-infectious complaint?	1
+What actions can staff and students take to prevent the spread of cov in my school/childcare program?	1
+What environmental cleaning procedures should my school take to keep staff and students healthy?	1
+What should we do if a child, student, or staff member has recently traveled to an area with cov or has a family member who has traveled to an area with cov?	1
+What is the mode of transmission? How (easily) does it spread?	1
+Potential therapeutic agents against COVID-19	1
+Global research on COVID 19 pandemic 	1
+How long will it take to develop a vaccine?	1
+"Is there a vaccine that protects against the disease COVID-19?",When is there a vaccination against the coronavirus?	1
+Should medical advice be sought and a test arranged for a respiratory illness?	1
+Does a test for the novel coronavirus make sense in people without any signs of illness?	1
+What treatment options are available for the novel coronavirus?	1
+How to treat the virus?	1
+Are there vaccines being researched?	1
+What is the purpose of quarantine?,When does quarantine make sense?	1
+How does the Robert Koch Institute assess the situation in Germany?	1
+Which groups of people are particularly often affected by a severe course of the disease?	1
+What do we currently know about SARS-CoV-2?	1
+Are there any recommendations for the resource-saving use of protective equipment for doctors in private practice as well as hospitals and clinics?	1
+How do I behave in the current situation as a messenger of diagnostic samples?	1
+Does an occupational risk of infection with SARS-CoV-2 play a role in the movement of goods?	1
+Can plastic films prevent the spread of Corona in shops?	1
+Criteria for lifting isolation measures and being discharged from hospital,When can I get out of isolation?	1
+Could I transmit the coronavirus to my baby?,Will my baby contract it?	1
+Can I stay with my baby if I am suspected or confirmed to have coronavirus?	1
+How is an infection with SARS-CoV-2 detected by laboratory diagnostics?	1
+How does the corona test work?	1
+How does the reporting process work, what is reportable and what information about the sick is sent to the RKI?	1
+Which means are suitable for disinfection measures in connection with the novel coronavirus (SARS-CoV-2)?	1
+How does the RKI record the situation, what recommendations are there for the specialist public?	1
+Can the virus mutate?,Will Corona become more dangerous?	1
+What is known about the pathogen and the disease?	1
+How does the RKI assess the situation in Germany? 	1
+Does the risk assessment for employees also include protection against infectious diseases?	1
+Does an FFP3 / FFP 2 mask help against corona?	1
+Should medical advice be obtained and a test arranged for a respiratory disease?	1
+Is the main transmission route is droplet infection?	1
+How long is the incubation period for an infection with the novel coroan virus?	1
+Will warm weather stop the outbreak of COVID-19?	1
+Can a person test negative and later test positive for COVID-19?	1
+What do we know about viral shedding in stool?	1
+What do we know about viral shedding in the nasopharynx?	1
+What do we know about viral shedding in urine?	1
+What do we know about viral shedding in blood?	1
+How long can the 2019-nCoV virus remain viable on common surfaces?	1
+Length of viral shedding after illness onset	1
+Persistence of virus on surfaces of different materials (e,g., copper, stainless steel, plastic)	1
+Incubation period across different age groups	1
+What is the incubation period of the virus?	1
+Coronavirus adhesion to hydrophilic/phobic surfaces	1
+Susceptibility to environmental cleaning agents	1
+Coronavirus susceptibility to heat, light, and radiation	1
+Development of a point-of-care test and rapid bed-side tests	1
+Diagnosing SARS-COV-2 with nucleic-acid based tech	1
+Diagnosing SARS-COV-2 with antibodies	1
+How does viral load relate to disease presentations and likelihood of a positive diagnostic test?	1
+Proportion of all positive COVID19 patients who were asymptomatic 	1
+Proportion of pediatric COVID19 patients who were asymptomatic 	1
+Can the virus be transmitted asymptomatically or during the incubation period?	1
+Effectiveness of case isolation/isolation of exposed individuals to prevent secondary transmission	1
+Effectiveness of community contact reduction (i.e. limiting social gatherings, "social distancing")  to prevent secondary transmission in health care and community settings	1
+Effectiveness of inter/inner travel restriction (i.e. lockdown) to prevent secondary transmission in health care and community settings	1
+Effectiveness of school distancing to prevent secondary transmission in health care and community settings	1
+Effectiveness of workplace distancing to prevent secondary transmission	1
+Effectiveness of a multifactorial strategy to prevent secondary transmission	1
+What are ways to create hospital infrastructure to prevent nosocomial outbreaks and protect uninfected patients?	1
+Methods to control the spread in communities, barriers to compliance and how these vary among different populations.	1
+What is known about adaptations (mutations) of the virus?	1
+Tools and studies to monitor phenotypic change and potential adaptation of the virus	1
+Are there studies about phenotypic change?	1
+How can we measure changes in COVID-19's behavior in a human host as the virus evolves over time?	1
+What regional genetic variations (mutations) exist?	1
+What is the likelihood of significant changes in transmissibility in changing seasons?	1
+Modes of communicating with target high-risk populations	1
+Seasonality of transmission 	1
+How does temperature and humidity affect the transmission of 2019-nCoV?	1
+Management of patients who are underhoused or otherwise lower social economic status	1
+Efforts to develop qualitative assessment frameworks to systematically collect information related to local barriers and enablers for the uptake and adherence to public health measures for prevention and control. 	1
+Rapid identification of the secondary impacts of these measures. (e.g. use of surgical masks, modification of health seeking behaviors for SRH, school closures)	1
+Measures to reach marginalized and disadvantaged populations	1
+Methods to understand and regulate the spread in communities	1
+What is the best method to combat the hypercoagulable state seen in COVID-19?	1
+What is the efficacy of novel therapeutics being tested currently?	1
+Evidence that domesticated/farm animals can be infected and maintain transmissibility of the disease	1
+What do models for transmission predict?	1
+Serial Interval (time between symptom onset in infector-infectee pair)	1
+Manifestations of COVID-19 including but not limited to possible cardiomyopathy and cardiac arrest	1
+What are recommendations for combating/overcoming resource failures in pandemic response at hospital and departmental levels	1
+Hypertension	1
+Diabetes	1
+Male gender	1
+Heart Disease	1
+COPD	1
+Smoking Status	1
+Age	1
+Cerebrovascular disease	1
+Cardio- and cerebrovascular disease	1
+Cancer	1
+Respiratory system diseases	1
+Chronic kidney disease	1
+Chronic respiratory diseases	1
+Drinking	1
+Overweight or obese	1
+Chronic liver disease	1
+Heart Failure	1
+Immune system disorders	1
+Asthma	1
+Dementia	1
+Endocrine diseases	1
+Ethnicity: Hispanic vs. non-Hispanic	1
+Race: Black vs. White	1
+Race: Asian vs. White	1
+Race: Other vs. White	1
+Chronic digestive disorders	1
+Autoimmune disorders	1
+Neurological disorders	1
+How often are antibody tests false positives?	1
+What is the r0 of COVID-19 in different communities?	1
+Are there long-lasting health impacts or changes to patients as a result of COVID-19 infection?	1
+Which comorbidities are correlated with severe outcomes?	1
+Does temperature or other geographic characteristics influence how rapidly COVID-19 spreads, or the severity of cases?	1
+Which genes are correlated with an increased risk of severe COVID-19 outcomes?	1
+Are the results of antibody tests impacted by previous coronavirus or influenza infections?	1
+What percentage of patients are asymptomatic?	1
+Which genes are correlated with less susceptibility to contracting the infection, and/or experiencing severe outcomes?	1
+What is the correlation between obesity and severe COVID-19 outcomes?	1
+What is the correlation between high cholesterol and severe COVID-19 outcomes?	1
+Do individuals who have contracted a coronavirus within a certain time period demonstrate less susceptibility to infection?	1
+Does socioeconomic status impact the risk of hospitalization and mortality?	1
+Does alcohol use increase or reduce risk of COVID-19 infection? What about disease severity?	1
+Does smoking increase or reduce COVID-19 risk of COVID-19 infection? What about disease severity?	1
+Which off-label drugs are being used with COVID patients?	1
+Which off-label drugs correlate with reduced hospitalization, ventilator use, and/or mortality?	1
+Are there genomic or physiological characteristics in patients that influence drug effectiveness?	1
+What is the long-term safety and efficacy of a COVID-19 vaccine (once developed)?	1
+Does receiving an influenza vaccine have preventative effects for COVID-19?	1
+What pre-existing prescription drug usage is correlated with protective benefits from getting COVID-19?	1
+What is the impact on other diseases if anti-inflammatory and other drugs are being repurposed for COVID19 treatment?	1
+Do drugs used for COVID-19 have interactions with any commonly-used medications?	1
+Did mortality rates for emergent conditions such as stroke change during the pandemic?	1
+What is the impact on delayed preventative diagnostic tests on overall disease burden?	1
+What is the short term effect on any anti-inflammatory drug shortages (e.g., anti IL-6) for patients who need those drugs for other diseases?	1
+Are there changes in prescription refill rates?	1
+Are there certain specialties that have shifted to telemedicine more than others?	1
+Is diagnosis with coronavirus 229E, NL63, OC43, or HKU1  same as a COVID-19 diagnosis?	1
+Which body fluids can spread the covid-19 infection?	1
+Should any diagnostic or therapeutic interventions be withheld due to concerns about transmission of COVID-19?	1
+Will existing respiratory virus panels, such as those manufactured by Biofire or Genmark, detect SARS-CoV-2?	1
+Are Corticosteroids recommended for viral pneumonia?	1
+Does Remdesivir have in-vitro activity against COVID-19?	1
